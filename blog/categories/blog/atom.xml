@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Blog | ThoRY-L Tech]]></title>
   <link href="http://LazyChild.github.com/blog/categories/blog/atom.xml" rel="self"/>
   <link href="http://LazyChild.github.com/"/>
-  <updated>2013-01-28T22:01:05+08:00</updated>
+  <updated>2013-01-28T22:04:28+08:00</updated>
   <id>http://LazyChild.github.com/</id>
   <author>
     <name><![CDATA[ryliu]]></name>
@@ -32,9 +32,8 @@
 </ol>
 
 
-<h1>markdown test</h1>
-
-<p><code>git clone https://github.com/LazyChild/lazychild.github.com.git</code></p>
+<p><div class='bogus-wrapper'><notextile><figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+</pre></td><td class='code'><pre><code class=''><span class='line'>git clone https://github.com/LazyChild/lazychild.github.com.git</span></code></pre></td></tr></table></div></figure></notextile></div></p>
 ]]></content>
   </entry>
   
