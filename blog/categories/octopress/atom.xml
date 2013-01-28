@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Octopress | ThoRY-L Tech]]></title>
   <link href="http://LazyChild.github.com/blog/categories/octopress/atom.xml" rel="self"/>
   <link href="http://LazyChild.github.com/"/>
-  <updated>2013-01-28T22:04:28+08:00</updated>
+  <updated>2013-01-28T22:09:29+08:00</updated>
   <id>http://LazyChild.github.com/</id>
   <author>
     <name><![CDATA[ryliu]]></name>
@@ -14,7 +14,7 @@
 
   
   <entry>
-    <title type="html"><![CDATA[尝试使用Octopress来建站]]></title>
+    <title type="html"><![CDATA[使用Octopress来写Blog]]></title>
     <link href="http://LazyChild.github.com/blog/2013/01/28/trying-octopress/"/>
     <updated>2013-01-28T19:54:00+08:00</updated>
     <id>http://LazyChild.github.com/blog/2013/01/28/trying-octopress</id>
@@ -22,17 +22,8 @@
 
 <p>众多新技术的风靡令我心里发痒，这是我重新搭建blog的主要动力。我希望能记录下来自己在学习中收获的点滴。</p>
 
-<hr />
-
-<p>放假回家之后，主要折腾了下面一点事情：</p>
-
-<ol>
-<li>因为下学期会有比较独立的web开发任务，我尝试了早有耳闻的<a href="https://www.djangoproject.com/" title="django">django</a>框架。不得不说的是其<em>ORM</em>, <em>Admin Site</em>等功能让人眼前一亮，而且还有很多可以复用的Apps，确实可以减少相当大的重复工作。缺点就是django是一个大包大揽的框架，对于大型应用来说可制定性估计不能满足要求。但是对于个人开发小网站来说绝对是非常好的选择。</li>
-<li>学期末的时候决定把 <em>Effective Java</em> 重新认真读一下，不过好像读了几章之后又放下了。最近准备读一读然后写点笔记扔上来吧。</li>
-</ol>
-
-
-<p><div class='bogus-wrapper'><notextile><figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<p>感兴趣的同学可以键入以下命令获取到本站全部源码。
+<div class='bogus-wrapper'><notextile><figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
 </pre></td><td class='code'><pre><code class=''><span class='line'>git clone https://github.com/LazyChild/lazychild.github.com.git</span></code></pre></td></tr></table></div></figure></notextile></div></p>
 ]]></content>
   </entry>
