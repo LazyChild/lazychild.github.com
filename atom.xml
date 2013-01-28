@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[ThoRY-L]]></title>
   <link href="http://LazyChild.github.com/atom.xml" rel="self"/>
   <link href="http://LazyChild.github.com/"/>
-  <updated>2013-01-28T17:16:07+08:00</updated>
+  <updated>2013-01-28T17:29:51+08:00</updated>
   <id>http://LazyChild.github.com/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[LazyChild]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
