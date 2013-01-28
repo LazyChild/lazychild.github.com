@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Octopress | ThoRY-L Tech]]></title>
   <link href="http://LazyChild.github.com/blog/categories/octopress/atom.xml" rel="self"/>
   <link href="http://LazyChild.github.com/"/>
-  <updated>2013-01-28T22:09:52+08:00</updated>
+  <updated>2013-01-28T22:20:36+08:00</updated>
   <id>http://LazyChild.github.com/</id>
   <author>
     <name><![CDATA[ryliu]]></name>
@@ -14,17 +14,18 @@
 
   
   <entry>
-    <title type="html"><![CDATA[使用Octopress写Blog]]></title>
+    <title type="html"><![CDATA[使用Octopress配合Github Pages搭建Blog]]></title>
     <link href="http://LazyChild.github.com/blog/2013/01/28/trying-octopress/"/>
     <updated>2013-01-28T19:54:00+08:00</updated>
     <id>http://LazyChild.github.com/blog/2013/01/28/trying-octopress</id>
-    <content type="html"><![CDATA[<p>最近发现我们更应该关注blog的内容本身，而不是它的展现形式。markdown是最近广泛使用于<a href="https://github.com" title="github">github</a>以及<a href="https://stackoverflow.com" title="stackoverflow">stackoverflow</a>等的程序员社区的一种标记语言，它能更好的让人们专注于写作内容的本身，而并非其展现形式。Blogging like hackers是octopress的宗旨，当下有很多人选择使用<a href="http://octopress.org/" title="Octopress">Octopress</a>配合<a href="http://pages.github.com/" title="Github Pages">Github Pages</a>建站。</p>
+    <content type="html"><![CDATA[<p>最近发现我们更应该关注blog的内容本身，而不是它的展现形式。markdown是广泛使用于<a href="https://github.com" title="github">github</a>以及<a href="https://stackoverflow.com" title="stackoverflow">stackoverflow</a>等的程序员社区的一种标记语言，它能更好的让人们专注于写作内容的本身，而并非其展现形式。
+当下有很多人选择使用<a href="http://octopress.org/" title="Octopress">Octopress</a>配合<a href="http://pages.github.com/" title="Github Pages">Github Pages</a>来搭建自己的技术博客。Octopress是一个把markdown标记转换为静态网页的工具，然后Github Pages作为静态网页的服务端将页面呈现。搭建这个博客的过程确实让我体会到了什么叫blogging like hackers，只用terminal，notepad像写程序一样的就可以更新博客。</p>
 
-<p>众多新技术的风靡令我心里发痒，这是我重新搭建blog的主要动力。我希望能记录下来自己在学习中收获的点滴。</p>
-
-<p>感兴趣的同学可以键入以下命令获取到本站全部源码。
+<p>关于如何setup，在Octopress的文档里已经写的很清楚，我在这里就不赘述了。当然感兴趣的同学可以在github获取到本站全部源码。
 <div class='bogus-wrapper'><notextile><figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
 </pre></td><td class='code'><pre><code class=''><span class='line'>git clone https://github.com/LazyChild/lazychild.github.com.git</span></code></pre></td></tr></table></div></figure></notextile></div></p>
+
+<p>这次我重新搭建blog的主要动力是想尝试一下这种美妙的blogging的方式，也希望能记录下来自己在学习中收获的点滴。</p>
 ]]></content>
   </entry>
   
