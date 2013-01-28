@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Blog | ThoRY-L Tech]]></title>
   <link href="http://LazyChild.github.com/blog/categories/blog/atom.xml" rel="self"/>
   <link href="http://LazyChild.github.com/"/>
-  <updated>2013-01-28T22:09:29+08:00</updated>
+  <updated>2013-01-28T22:09:52+08:00</updated>
   <id>http://LazyChild.github.com/</id>
   <author>
     <name><![CDATA[ryliu]]></name>
@@ -14,7 +14,7 @@
 
   
   <entry>
-    <title type="html"><![CDATA[使用Octopress来写Blog]]></title>
+    <title type="html"><![CDATA[使用Octopress写Blog]]></title>
     <link href="http://LazyChild.github.com/blog/2013/01/28/trying-octopress/"/>
     <updated>2013-01-28T19:54:00+08:00</updated>
     <id>http://LazyChild.github.com/blog/2013/01/28/trying-octopress</id>
