@@ -4,7 +4,7 @@
   <title><![CDATA[ThoRY-L Tech]]></title>
   <link href="http://LazyChild.github.com/atom.xml" rel="self"/>
   <link href="http://LazyChild.github.com/"/>
-  <updated>2013-01-28T21:44:43+08:00</updated>
+  <updated>2013-01-28T22:01:05+08:00</updated>
   <id>http://LazyChild.github.com/</id>
   <author>
     <name><![CDATA[ryliu]]></name>
@@ -31,6 +31,10 @@
 <li>学期末的时候决定把 <em>Effective Java</em> 重新认真读一下，不过好像读了几章之后又放下了。最近准备读一读然后写点笔记扔上来吧。</li>
 </ol>
 
+
+<h1>markdown test</h1>
+
+<p><code>git clone https://github.com/LazyChild/lazychild.github.com.git</code></p>
 ]]></content>
   </entry>
   
