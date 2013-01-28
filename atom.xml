@@ -4,7 +4,7 @@
   <title><![CDATA[ThoRY-L]]></title>
   <link href="http://LazyChild.github.com/atom.xml" rel="self"/>
   <link href="http://LazyChild.github.com/"/>
-  <updated>2013-01-28T19:42:35+08:00</updated>
+  <updated>2013-01-28T19:52:51+08:00</updated>
   <id>http://LazyChild.github.com/</id>
   <author>
     <name><![CDATA[LazyChild]]></name>
@@ -12,14 +12,5 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
-  
-  <entry>
-    <title type="html"><![CDATA[尝试使用Octopress写Blog]]></title>
-    <link href="http://LazyChild.github.com/blog/2013/01/28/chang-shi-shi-yong-octopressxie-blog/"/>
-    <updated>2013-01-28T17:33:00+08:00</updated>
-    <id>http://LazyChild.github.com/blog/2013/01/28/chang-shi-shi-yong-octopressxie-blog</id>
-    <content type="html"><![CDATA[<p>1.Recently I am learning Django <a href="https://github.com/LazyChild/HelloDjango.git">HelloDjango</a></p>
-]]></content>
-  </entry>
   
 </feed>
