@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[ThoRY-L Tech]]></title>
-  <link href="http://LazyChild.github.com/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Octopress | ThoRY-L Tech]]></title>
+  <link href="http://LazyChild.github.com/blog/categories/octopress/atom.xml" rel="self"/>
   <link href="http://LazyChild.github.com/"/>
   <updated>2013-01-28T21:29:26+08:00</updated>
   <id>http://LazyChild.github.com/</id>
